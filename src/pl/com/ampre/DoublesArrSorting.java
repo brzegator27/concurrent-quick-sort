@@ -5,4 +5,5 @@ package pl.com.ampre;
  */
 public interface DoublesArrSorting {
     public void sort(double[] arr);
+    public void sort(double[] arr, int begin, int end);
 }
